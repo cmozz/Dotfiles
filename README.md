@@ -1,4 +1,4 @@
-# Daniel’s dotfiles
+# Cameron’s dotfiles
 
 ## Installation
 
